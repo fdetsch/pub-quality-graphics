@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Creating Publication Quality Graphics using R\n========================================================\nauthor: Florian Detsch\ndate: 5 October 2017\nautosize: true\n\nFirst Slide\n========================================================\n\nFor more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.\n\n- Bullet 1\n- Bullet 2\n- Bullet 3\n\nSlide With Code\n========================================================\n\n```{r}\nsummary(cars)\n```\n\nSlide With Plot\n========================================================\n\n```{r, echo=FALSE}\nplot(cars)\n```\n\nSlide With Zebra\n========================================================\n\n![zebra](pub-quality-graphics-figure/zebra.png)\n***\n(http://www.darkhorseanalytics.com/blog/fat-zebras, \nhttps://alistapart.com/article/zebrastripingdoesithelp)\n\nMap Design Best Practices\n========================================================\n\n(http://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition)\n",
+    "created" : 1489131505186.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2729384153",
+    "id" : "4EC7BAC5",
+    "lastKnownWriteTime" : 1489132304,
+    "last_content_update" : 1489132304283,
+    "path" : "/media/permanent/work/teaching/2017/ws/pub-quality-graphics/presentation/pub-quality-graphics.Rpres",
+    "project_path" : "presentation/pub-quality-graphics.Rpres",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_presentation"
+}
