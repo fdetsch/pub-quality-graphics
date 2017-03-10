@@ -1,0 +1,41 @@
+Creating Publication Quality Graphics using R
+========================================================
+author: Florian Detsch
+date: 5 October 2017
+autosize: true
+
+First Slide
+========================================================
+
+For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Slide With Zebra
+========================================================
+
+![zebra](pub-quality-graphics-figure/zebra.png)
+***
+(http://www.darkhorseanalytics.com/blog/fat-zebras, 
+https://alistapart.com/article/zebrastripingdoesithelp)
+
+Map Design Best Practices
+========================================================
+
+(http://www.darkhorseanalytics.com/blog/data-looks-better-naked-maps-edition)
